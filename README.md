@@ -3,10 +3,9 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <a href="https://bharat856.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bharat856&show_icons=true&line_height=27&count_private=true&include_all_commits=true&hide=issues,prs,contribs,stars,followers&title_color=00184E&text_color=636568&icon_color=035DB4&bg_color=E9EBEE" alt="Bharat's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bharat856&show_icons=true&line_height=27&count_private=true&include_all_commits=true&hide=issues&title_color=00184E&text_color=636568&icon_color=035DB4&bg_color=E9EBEE" alt="Bharat's GitHub Stats" />
 </a>
 
-![Total Repositories](https://img.shields.io/badge/Total%20Repositories-%20-blue?style=for-the-badge&logo=github)
 
 ## 🚀 About Me
 - 🎓 Master's Student in **Computer Science - Autonomous Systems** at **University of Stuttgart**
